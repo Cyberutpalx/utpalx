@@ -763,12 +763,12 @@ logo = ("""
 ─────────────────────────        
                                          
 \033[41m\033[1;37m[UTPAL]   [CRACKER]   [KING]   [MR.UTPAL]\x1b[0m
-\033[1;32m┌───────────────────────────────────────┐
-\033[1;33m│ [✓] AUTHOR   : 🌿UTPAL MALLICK ONGKON\033[1;32m[RRSN]              │
-\033[1;34m│ [✓] GITHUB   :\033[1;32mBANGLADESH -UTPAL                        │
-\033[1;35m│ [✓] WHATSAPP :  01761282729         │
-\033[1;36m│ [✓] POWER OF UTPAL🌿𝐇𝐀𝐂𝐊𝐄𝐑🌺 : \x1b[1;32mCYBER HACKER TEAM\x1b[1;97m           │
-\033[1;32m└───────────────────────────────────────┘  
+\033[1;32m┌───────────────────────────────────────────────┐
+\033[1;33m│ [✓] AUTHOR   : 🌿UTPAL MALLICK ONGKON\033[1;32m[RRSN]                       │
+\033[1;34m│ [✓] GITHUB   :\033[1;32mBANGLADESH -UTPAL                                
+\033[1;35m│ [✓] WHATSAPP :  01761282729                                              
+\033[1;36m│ [✓] POWER OF UTPAL🌿𝐇𝐀𝐂𝐊𝐄𝐑🌺 : \x1b[1;32mCYBER HACKER TEAM\x1b[1;97m        │
+\033[1;32m└───────────────────────────────────────────────┘  
  \033[41m\033[1;37m𝐓𝐎𝐎𝐋 𝐀𝐃𝐌𝐈𝐍 [UTPAL🌿MALLICK] [LOSER]  [MR.UTPAL]\x1b[0m    """)
 
 class Main:
