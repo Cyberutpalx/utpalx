@@ -1,4 +1,4 @@
-git clone https://github.com/Cyberutpalx/utpalx.git
+git clone https://github.com/UTP4L-MAX/utpalx.git
 
 cd utpalx
 
